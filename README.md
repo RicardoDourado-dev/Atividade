@@ -1,2 +1,3 @@
-# Atividade
-Atividades de Aprendizado
+# Atividade de Aprendizado!
+Atividades para fixação do meu conhecimento.
+
